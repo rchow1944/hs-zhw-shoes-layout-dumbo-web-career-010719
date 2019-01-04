@@ -24,10 +24,3 @@
 
 /* Positioning Classes */
 
-[class*="col-"]:first {
-  margin-left: 0%;
-}
-
-.first {
-  margin-left: 0%;
-}
